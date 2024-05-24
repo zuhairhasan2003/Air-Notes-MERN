@@ -1,0 +1,3 @@
+To start the front end of this website: 
+1) Open this folder in terminal
+2) run "npm start"
